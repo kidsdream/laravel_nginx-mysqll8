@@ -1,5 +1,5 @@
 # Name
-laravel_nginx-mysqllatest
+laravel_nginx-mysql8
 
 # Note
 docker/nginx/default.confのコメントに
