@@ -22,3 +22,6 @@ DB_DATABASE=laravel_db
 DB_USERNAME=laraveluser
 DB_PASSWORD=laravel_pass
 ```
+
+`php artisan migrate`コマンドで正常にマイグレーションできたら
+DB接続完了
